@@ -295,6 +295,6 @@ angular.module('angular-directive-percentage', [])
   }
 );
 
-if (module && module.exports) {
+if (typeof module !== 'undefined' && module.exports) {
   module.exports = 'angular-directive-percentage';
 }

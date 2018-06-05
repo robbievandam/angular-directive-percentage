@@ -1,6 +1,6 @@
 {
   "name": "angular-directive-percentage",
-  "version": "0.3.0-fix-validation-bug",
+  "version": "0.3.1",
   "description": "AngularJS directive to validate percentage inputs",
   "main": "angular-directive-percentage.js",
   "dependencies": {},
